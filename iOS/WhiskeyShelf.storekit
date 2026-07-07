@@ -1,0 +1,40 @@
+{
+  "identifier": "39D8B1D5",
+  "nonRenewingSubscriptions": [],
+  "products": [],
+  "settings": {},
+  "subscriptionGroups": [
+    {
+      "id": "20E4A2B1",
+      "localizations": [],
+      "name": "Whiskey Shelf Pro",
+      "subscriptions": [
+        {
+          "adHocOffers": [],
+          "codeOffers": [],
+          "displayPrice": "1.99",
+          "familyShareable": false,
+          "groupNumber": 1,
+          "internalID": "8F1A2C3D",
+          "introductoryOffer": null,
+          "localizations": [
+            {
+              "description": "Unlock Whiskey Shelf Pro features",
+              "displayName": "Whiskey Shelf Pro",
+              "locale": "en_US"
+            }
+          ],
+          "productID": "com.shimondeitel.whiskeyshelf.pro.monthly",
+          "recurringSubscriptionPeriod": "P1M",
+          "referenceName": "Whiskey Shelf Pro Monthly",
+          "subscriptionGroupID": "20E4A2B1",
+          "type": "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
